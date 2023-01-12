@@ -1,6 +1,6 @@
 ---
-title: "Reproducibility Example"
-author: "Short Course"
+title: "Rmarkdown Example"
+author: "Short Course: Reproducibility"
 date: "2023-01-12"
 output: html_document
 ---
